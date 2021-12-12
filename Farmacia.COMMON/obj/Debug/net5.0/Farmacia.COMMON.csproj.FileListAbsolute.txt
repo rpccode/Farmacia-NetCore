@@ -1,0 +1,12 @@
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\bin\Debug\net5.0\Farmacia.COMMON.deps.json
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\bin\Debug\net5.0\Farmacia.COMMON.dll
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\bin\Debug\net5.0\ref\Farmacia.COMMON.dll
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\bin\Debug\net5.0\Farmacia.COMMON.pdb
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\obj\Debug\net5.0\Farmacia.COMMON.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\obj\Debug\net5.0\Farmacia.COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\obj\Debug\net5.0\Farmacia.COMMON.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\obj\Debug\net5.0\Farmacia.COMMON.AssemblyInfo.cs
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\obj\Debug\net5.0\Farmacia.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\obj\Debug\net5.0\Farmacia.COMMON.dll
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\obj\Debug\net5.0\ref\Farmacia.COMMON.dll
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.COMMON\obj\Debug\net5.0\Farmacia.COMMON.pdb

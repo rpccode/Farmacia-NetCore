@@ -1,0 +1,12 @@
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\bin\Debug\net5.0\Farmacia.DAL.MSSQL.deps.json
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\bin\Debug\net5.0\Farmacia.DAL.MSSQL.dll
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\bin\Debug\net5.0\ref\Farmacia.DAL.MSSQL.dll
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\bin\Debug\net5.0\Farmacia.DAL.MSSQL.pdb
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\obj\Debug\net5.0\Farmacia.DAL.MSSQL.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\obj\Debug\net5.0\Farmacia.DAL.MSSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\obj\Debug\net5.0\Farmacia.DAL.MSSQL.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\obj\Debug\net5.0\Farmacia.DAL.MSSQL.AssemblyInfo.cs
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\obj\Debug\net5.0\Farmacia.DAL.MSSQL.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\obj\Debug\net5.0\Farmacia.DAL.MSSQL.dll
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\obj\Debug\net5.0\ref\Farmacia.DAL.MSSQL.dll
+C:\Users\a\Desktop\Programacion\Proyectos\c#\Farmacia-NetCore\Farmacia.DAL.MSSQL\obj\Debug\net5.0\Farmacia.DAL.MSSQL.pdb

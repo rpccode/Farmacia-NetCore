@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XUqvEVO2x9jYiM3LNT6q5XPZlhuSh+4V3459KKlqAGm25AhhOD7laDW10zaJh2KUN0k0l3G4g/A94buVAuLZNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a\\Desktop\\Programacion\\Proyectos\\c#\\Farmacia-NetCore\\Farmacia.COMMON\\Farmacia.COMMON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}
